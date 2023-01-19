@@ -7,3 +7,6 @@ Contains important code snippets of different - algorithms, tricks, among others
     1.1. [Gradient Descent](https://github.com/jabhij/DataScience_Snippets/blob/main/Machine%20Learning/Gradient_Descent.ipynb)
 
 2. **Data Visualization-**
+
+
+3. **EDA-**
